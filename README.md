@@ -128,3 +128,4 @@ Los archivos en `resumenes/` documentan el contenido de los papers y notas relev
 | `ShocksAndCrashes_LL2014.md` | Lettau & Lydvigson (2014) | Datos, DOLS, VECM Tabla 2, Gonzalo-Ng, interpretación de shocks, Figuras 4 y 5 |
 | `GonzaloNg_2001.md` | Gonzalo & Ng (2001) | Proposición 1, construcción de G = [γ_⊥'; α'], Cholesky, caveats, paso a paso |
 | `Notas_Relevantes_Ej1.md` | SlidesSVAR + RWZ + TimeSeries | SVAR, identificación BQ, algoritmo RWZ, Wold, proyecciones lineales |
+| `RespuestasAnaliticas_Ej1.md` | Ejercicio 1 (elaboración propia) | Diferencias con Tabla 2 del paper, origen del algoritmo VECM, mapa de funciones original/adaptado/copiado |
